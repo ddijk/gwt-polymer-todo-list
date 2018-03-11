@@ -34,5 +34,7 @@ to see the application in action.
 
 3. Run any web server in the `www` folder
 
-        $ serve www
+        $ mvn gwt:mode
+
+
 
