@@ -109,7 +109,7 @@
           <warDir>${project.build.directory}/${project.build.finalName}</warDir>
           <classpathScope>compile+runtime</classpathScope>
           <startupUrls>
-            <startupUrl>TodoListElements.html</startupUrl>
+            <startupUrl>TodoListWidgets.html</startupUrl>
           </startupUrls>
         </configuration>
       </plugin>
